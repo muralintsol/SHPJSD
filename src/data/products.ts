@@ -6,6 +6,7 @@ export interface Product {
   weight: string;
   color: string;
   emoji: string;
+  image: string;
   names: { en: string; kn: string; te: string };
   descriptions: { en: string; kn: string; te: string };
   ingredients: { en: string; kn: string; te: string };
@@ -19,6 +20,7 @@ export const products: Product[] = [
     weight: "200g",
     color: "#D4A017",
     emoji: "🌶️",
+    image: "/packaging/products/variety-chutney.webp",
     names: {
       en: "Variety Chutney Powder",
       kn: "ವಿವಿಧ ಚಟ್ನಿ ಪುಡಿ",
@@ -46,6 +48,7 @@ export const products: Product[] = [
     weight: "200g",
     color: "#B55233",
     emoji: "🥜",
+    image: "/packaging/products/shenga-chutney.webp",
     names: {
       en: "Shenga Chutney Powder",
       kn: "ಶೇಂಗಾ ಚಟ್ನಿ ಪುಡಿ",
@@ -73,6 +76,7 @@ export const products: Product[] = [
     weight: "150g",
     color: "#4A7C3F",
     emoji: "🌿",
+    image: "/packaging/products/agase-chutney.webp",
     names: {
       en: "Agase Chutney Powder",
       kn: "ಅಗಸೆ ಚಟ್ನಿ ಪುಡಿ",
@@ -100,6 +104,7 @@ export const products: Product[] = [
     weight: "150g",
     color: "#6B4423",
     emoji: "🫘",
+    image: "/packaging/products/gurellu-chutney.webp",
     names: {
       en: "Gurellu Chutney Powder",
       kn: "ಗುರೆಳ್ಳು ಚಟ್ನಿ ಪುಡಿ",
@@ -127,6 +132,7 @@ export const products: Product[] = [
     weight: "500g",
     color: "#C0392B",
     emoji: "💪",
+    image: "/packaging/products/natural-protein.webp",
     names: {
       en: "Natural Protein Powder",
       kn: "ನೈಸರ್ಗಿಕ ಪ್ರೋಟೀನ್ ಪುಡಿ",
@@ -154,6 +160,7 @@ export const products: Product[] = [
     weight: "250g (8 pcs)",
     color: "#E67E22",
     emoji: "🍡",
+    image: "/packaging/products/sathu-maavu-laddu.webp",
     names: {
       en: "Health Mix Laddu",
       kn: "ಸಾತು ಮಾವು ಉರಂಡೈ",
@@ -181,6 +188,7 @@ export const products: Product[] = [
     weight: "500g",
     color: "#F39C12",
     emoji: "👶",
+    image: "/packaging/products/baby-health-mix.webp",
     names: {
       en: "Protein-Rich Baby Food",
       kn: "ಶಿಶು ಆರೋಗ್ಯ ಮಿಶ್ರಣ",
@@ -208,6 +216,7 @@ export const products: Product[] = [
     weight: "500g",
     color: "#E74C3C",
     emoji: "🥭",
+    image: "/packaging/products/mango-pickle.webp",
     names: {
       en: "Traditional Mango Pickle",
       kn: "ಸ್ಥಳೀಯ ಮಾವಿನಕಾಯಿ ಉಪ್ಪಿನಕಾಯಿ",

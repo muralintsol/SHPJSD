@@ -152,7 +152,7 @@ export default async function HomePage({
               >
                 <div className="flex h-40 items-center justify-center bg-gradient-to-b from-cream-dark/30 to-white px-2 py-3">
                   <PackagingPhoto
-                    src={packagingPhotos[product.category]}
+                    src={product.image}
                     alt={getProductName(product, locale)}
                     className="h-full max-h-[135px] w-auto transition-transform group-hover:scale-105 group-hover:-translate-y-1"
                     Fallback={Illustration}

@@ -2,7 +2,7 @@ import { MessageCircle } from "lucide-react";
 import { getWhatsAppUrl } from "@/lib/whatsapp";
 import type { Product } from "@/data/products";
 import { getProductField, getProductName } from "@/data/products";
-import { packagingByCategory, packagingPhotos } from "@/data/packaging";
+import { packagingByCategory } from "@/data/packaging";
 import { PackagingPhoto } from "@/components/packaging/PackagingPhoto";
 
 interface ProductCardProps {
@@ -37,7 +37,7 @@ export function ProductCard({
       <div className="relative flex h-56 items-center justify-center overflow-hidden bg-gradient-to-b from-cream-dark/25 to-white px-4 py-5">
         <div className="absolute inset-0 spice-pattern opacity-10" />
         <PackagingPhoto
-          src={packagingPhotos[product.category]}
+          src={product.image}
           alt={name}
           className="relative z-10 h-full max-h-[210px] w-auto transition-transform duration-300 group-hover:scale-105 group-hover:-translate-y-2"
           Fallback={PackagingIllustration}

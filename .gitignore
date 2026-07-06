@@ -38,6 +38,7 @@ yarn-error.log*
 
 # firebase
 .firebase
+/public/packaging/bases/*.png
 
 # typescript
 *.tsbuildinfo

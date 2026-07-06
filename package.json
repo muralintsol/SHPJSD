@@ -9,7 +9,8 @@
     "deploy": "npm run build && firebase deploy --only hosting",
     "build:firebase": "npm run build",
     "brand-packaging": "node scripts/brand-packaging.mjs",
-    "generate-packaging": "node scripts/generate-packaging-photos.mjs"
+    "generate-packaging": "node scripts/generate-packaging-photos.mjs",
+    "generate-catalogue": "node scripts/generate-catalogue-photos.mjs"
   },
   "dependencies": {
     "lucide-react": "^1.23.0",
