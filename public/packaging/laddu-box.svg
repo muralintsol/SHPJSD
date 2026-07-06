@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 360" fill="none">
+  <defs>
+    <linearGradient id="box" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5E6D0"/>
+      <stop offset="100%" stop-color="#E8C9A0"/>
+    </linearGradient>
+    <linearGradient id="ribbon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C45C26"/>
+      <stop offset="100%" stop-color="#9B4E2A"/>
+    </linearGradient>
+  </defs>
+  <rect x="50" y="80" width="180" height="140" rx="6" fill="url(#box)" stroke="#9B4E2A" stroke-width="2"/>
+  <rect x="50" y="80" width="180" height="35" rx="6" fill="url(#ribbon)"/>
+  <rect x="50" y="108" width="180" height="7" fill="url(#ribbon)"/>
+  <text x="140" y="102" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-weight="700" fill="white">Sumangali Home Foods</text>
+  <circle cx="140" cy="175" r="28" fill="#FBF6EE" stroke="#E8A838" stroke-width="2"/>
+  <circle cx="135" cy="170" r="8" fill="#E8A838"/>
+  <circle cx="148" cy="175" r="7" fill="#C45C26"/>
+  <circle cx="140" cy="185" r="6" fill="#9B4E2A"/>
+  <text x="140" y="220" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-weight="600" fill="#3D2314">Health Mix Laddu</text>
+  <text x="140" y="238" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#5C7A52">8 Pieces · Pure Ghee</text>
+  <rect x="85" y="250" width="110" height="20" rx="10" fill="#5C7A52"/>
+  <text x="140" y="264" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" font-weight="600" fill="white">NUTRITIOUS &amp; NATURAL</text>
+  <path d="M90 300 Q140 290 190 300" stroke="#9B4E2A" stroke-width="1" fill="none" opacity="0.5"/>
+  <text x="140" y="315" text-anchor="middle" font-family="Georgia,serif" font-size="8" font-style="italic" fill="#9B4E2A">Made with Love</text>
+</svg>

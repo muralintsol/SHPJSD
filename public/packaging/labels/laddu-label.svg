@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 88" fill="none">
+  <defs>
+    <linearGradient id="ribbon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C45C26"/>
+      <stop offset="100%" stop-color="#9B4E2A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5C842"/>
+      <stop offset="100%" stop-color="#E8A838"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-12%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#3D2314" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="296" height="84" rx="6" fill="url(#ribbon)" filter="url(#shadow)"/>
+  <circle cx="42" cy="44" r="24" fill="#FFFDF9" stroke="url(#gold)" stroke-width="2"/>
+  <ellipse cx="42" cy="46" rx="13" ry="9" fill="url(#gold)"/>
+  <text x="158" y="36" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="700" fill="#FBF6EE">Sumangali</text>
+  <text x="158" y="52" text-anchor="middle" font-family="Arial, sans-serif" font-size="8.5" font-weight="600" fill="#F5C842" letter-spacing="3.8">HOME FOODS</text>
+  <text x="158" y="72" text-anchor="middle" font-family="Georgia, serif" font-size="11" font-weight="600" fill="#FBF6EE" opacity="0.95">Health Mix Laddu</text>
+</svg>

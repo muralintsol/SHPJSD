@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 360" fill="none">
+  <defs>
+    <linearGradient id="bag" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F0E6D8"/>
+      <stop offset="100%" stop-color="#D4C4A8"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 40 L220 40 L240 320 L40 320 Z" fill="url(#bag)" stroke="#9B4E2A" stroke-width="2"/>
+  <path d="M60 40 Q140 60 220 40" stroke="#9B4E2A" stroke-width="1.5" fill="none"/>
+  <rect x="80" y="90" width="120" height="100" rx="4" fill="#FBF6EE" stroke="#E8A838" stroke-width="2"/>
+  <circle cx="140" cy="125" r="20" fill="#FBF6EE" stroke="#C45C26" stroke-width="1.5"/>
+  <ellipse cx="140" cy="128" rx="12" ry="9" fill="#E8A838"/>
+  <text x="140" y="155" text-anchor="middle" font-family="Georgia,serif" font-size="10" font-weight="700" fill="#3D2314">Sumangali</text>
+  <text x="140" y="168" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#5C7A52" letter-spacing="1.5">HOME FOODS</text>
+  <text x="140" y="215" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-weight="600" fill="#9B4E2A">Protein Powder</text>
+  <text x="140" y="232" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#3D2314" opacity="0.7">Sprouted Grains · 500g</text>
+  <rect x="90" y="250" width="100" height="22" rx="11" fill="#C45C26"/>
+  <text x="140" y="265" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" font-weight="600" fill="white">PLANT PROTEIN</text>
+  <circle cx="70" cy="290" r="4" fill="#5C7A52" opacity="0.5"/>
+  <circle cx="210" cy="290" r="4" fill="#5C7A52" opacity="0.5"/>
+</svg>

@@ -1,26 +1,131 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --background: #fbf6ee;
+  --foreground: #3d2314;
+  --saffron: #e8a838;
+  --marigold: #f5c842;
+  --cinnamon: #9b4e2a;
+  --paprika: #c45c26;
+  --mahogany: #3d2314;
+  --sage: #5c7a52;
+  --sage-light: #8ba67e;
+  --cream: #fbf6ee;
+  --cream-dark: #f0e6d8;
+  --rosewood: #6b3a2a;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-saffron: var(--saffron);
+  --color-marigold: var(--marigold);
+  --color-cinnamon: var(--cinnamon);
+  --color-paprika: var(--paprika);
+  --color-mahogany: var(--mahogany);
+  --color-sage: var(--sage);
+  --color-sage-light: var(--sage-light);
+  --color-cream: var(--cream);
+  --color-cream-dark: var(--cream-dark);
+  --color-rosewood: var(--rosewood);
+  --color-turmeric: var(--saffron);
+  --color-kumkum: var(--paprika);
+  --color-terracotta: var(--cinnamon);
+  --color-leaf: var(--sage);
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+  --font-display: var(--font-playfair);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-inter), system-ui, sans-serif;
+}
+
+.font-display {
+  font-family: var(--font-playfair), Georgia, serif;
+}
+
+.grain-overlay {
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.035'/%3E%3C/svg%3E");
+}
+
+.spice-pattern {
+  background-image: url("/spice-pattern.svg");
+  background-size: 80px 80px;
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(24px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-8px); }
+}
+
+@keyframes shimmer {
+  0% { background-position: -200% center; }
+  100% { background-position: 200% center; }
+}
+
+.animate-fade-in-up {
+  animation: fadeInUp 0.7s ease-out forwards;
+}
+
+.animate-float {
+  animation: float 4s ease-in-out infinite;
+}
+
+.heritage-border {
+  background: linear-gradient(90deg, transparent, var(--saffron), var(--paprika), var(--saffron), transparent);
+  height: 2px;
+}
+
+.text-gradient-gold {
+  background: linear-gradient(135deg, var(--marigold), var(--paprika));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.card-elevated {
+  background: white;
+  border: 1px solid color-mix(in srgb, var(--saffron) 20%, transparent);
+  box-shadow: 0 4px 24px -4px color-mix(in srgb, var(--mahogany) 12%, transparent);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card-elevated:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 32px -8px color-mix(in srgb, var(--cinnamon) 25%, transparent);
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--saffron), var(--paprika));
+  color: white;
+  font-weight: 600;
+  border-radius: 9999px;
+  padding: 0.75rem 2rem;
+  box-shadow: 0 4px 16px -2px color-mix(in srgb, var(--paprika) 40%, transparent);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-primary:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px -2px color-mix(in srgb, var(--paprika) 50%, transparent);
+}
+
+.quote-mark {
+  font-family: Georgia, serif;
+  font-size: 4rem;
+  line-height: 1;
+  color: var(--saffron);
+  opacity: 0.35;
 }

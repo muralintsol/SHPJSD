@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 272 72" fill="none" role="img" aria-label="Sumangali Home Foods">
+  <defs>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5C842"/>
+      <stop offset="50%" stop-color="#E8A838"/>
+      <stop offset="100%" stop-color="#C45C26"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#5C7A52"/>
+      <stop offset="100%" stop-color="#6B8F5E"/>
+    </linearGradient>
+  </defs>
+  <!-- Brand mark -->
+  <circle cx="36" cy="36" r="30" fill="#FBF6EE" stroke="url(#gold)" stroke-width="2"/>
+  <circle cx="36" cy="36" r="24" fill="none" stroke="#E8A838" stroke-width="0.8" stroke-dasharray="2.5 4" opacity="0.45"/>
+  <path d="M14 28 Q36 14 58 28" stroke="#C45C26" stroke-width="1.6" fill="none" stroke-linecap="round"/>
+  <ellipse cx="36" cy="40" rx="13" ry="9.5" fill="url(#gold)"/>
+  <path d="M25 37 Q36 31 47 37" stroke="#9B4E2A" stroke-width="1.2" fill="none" stroke-linecap="round" opacity="0.65"/>
+  <path d="M26 30 Q29 24 32 30" stroke="url(#leaf)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <path d="M40 28 Q43 22 46 28" stroke="url(#leaf)" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- Wordmark -->
+  <text x="78" y="34" font-family="Georgia, 'Playfair Display', serif" font-size="26" font-weight="700" fill="#3D2314" letter-spacing="-0.3">Sumangali</text>
+  <text x="78" y="54" font-family="Arial, Helvetica, sans-serif" font-size="10.5" font-weight="600" fill="#5C7A52" letter-spacing="4.5">HOME FOODS</text>
+  <line x1="78" y1="60" x2="262" y2="60" stroke="#E8A838" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 72" fill="none">
+  <defs>
+    <linearGradient id="ribbon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#C45C26"/>
+      <stop offset="100%" stop-color="#9B4E2A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F5C842"/>
+      <stop offset="100%" stop-color="#E8A838"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-15%" width="110%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="2" flood-color="#3D2314" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+  <rect x="2" y="2" width="296" height="68" rx="6" fill="url(#ribbon)" filter="url(#shadow)"/>
+  <circle cx="42" cy="36" r="22" fill="#FFFDF9" stroke="url(#gold)" stroke-width="1.8"/>
+  <ellipse cx="42" cy="38" rx="12" ry="8" fill="url(#gold)"/>
+  <path d="M30 32 Q42 24 54 32" stroke="#C45C26" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+  <text x="158" y="32" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="18" font-weight="700" fill="#FBF6EE">Sumangali</text>
+  <text x="158" y="50" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="9" font-weight="600" fill="#F5C842" letter-spacing="4">HOME FOODS</text>
+</svg>

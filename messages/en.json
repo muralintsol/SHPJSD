@@ -1,0 +1,243 @@
+{
+  "metadata": {
+    "title": "Sumangali Home Foods | Authentic Homemade Chutney, Health Mix & Pickles",
+    "description": "For lovers of authentic homemade food — and a growing Karnataka marketplace empowering women artisans through the FPO model. Handcrafted chutney, health mix, pickles. Order via WhatsApp."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Janaki",
+    "products": "Products",
+    "story": "Our Story",
+    "vision": "Women & FPO",
+    "health": "Why Homemade",
+    "contact": "Contact"
+  },
+  "brand": {
+    "name": "Sumangali",
+    "homeFoods": "Home Foods",
+    "tagline": "Preserving Authentic Tastes for Future Generations",
+    "taglineSecondary": "Crafted with Love for Authentic Food Lovers",
+    "heroSubtitle": "Janaki Sudath Darshanapur brings time-honored recipes, handcrafted in small batches — and a bold vision to onboard women artisans across Karnataka through a shared FPO-powered marketplace.",
+    "storyQuote": "Every spice tells a story. Every batch carries a memory."
+  },
+  "common": {
+    "orderWhatsApp": "Order on WhatsApp",
+    "learnMore": "Learn More",
+    "viewAll": "View All Products",
+    "contactUs": "Contact Us",
+    "sendMessage": "Send Message",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourMessage": "Your Message",
+    "productInterest": "Product of Interest",
+    "selectProduct": "Select a product",
+    "allCategories": "All",
+    "inquiryType": "I am contacting as",
+    "inquiryCustomer": "Customer — place an order",
+    "inquiryArtisan": "Women artisan — join the marketplace",
+    "inquiryFpo": "FPO / SHG — partner with us",
+    "inquiryOther": "Other inquiry",
+    "comingSoon": "Photo coming soon"
+  },
+  "badges": {
+    "womenLed": "Women-Led",
+    "noPreservatives": "No Preservatives",
+    "smallBatch": "Small Batch",
+    "heritageCraft": "Heritage Craft"
+  },
+  "categories": {
+    "chutney": "Chutney Powders",
+    "protein": "Protein Powder",
+    "baby": "Baby Food",
+    "pickles": "Heritage Pickles"
+  },
+  "home": {
+    "heroCta": "Explore Our Creations",
+    "featuredTitle": "Crafted for Connoisseurs",
+    "featuredSubtitle": "Heritage recipes, slow-roasted and ground in small batches — the way authentic food was always meant to taste",
+    "founderTitle": "Meet Janaki Sudath Darshanapur",
+    "founderText": "A passionate keeper of culinary heritage, Janaki founded Sumangali Home Foods as the first spark of a larger mission — to help every woman in Karnataka who crafts authentic food join a common marketplace, powered by Farmer Producer Organisation (FPO) models that build collective strength and fair livelihoods.",
+    "founderCta": "Discover Her Story",
+    "trustTitle": "Why Authentic Food Lovers Choose Us",
+    "ctaTitle": "Ready to Taste Heritage in Every Bite?",
+    "ctaText": "Message us on WhatsApp to place your order. Delivered across Karnataka and Andhra Pradesh."
+  },
+  "about": {
+    "title": "About Janaki",
+    "subtitle": "Sharing heritage flavors with families who cherish authentic food",
+    "intro": "Janaki Sudath Darshanapur is a passionate food artisan from Darshanapur, Yadgir district, Karnataka. With deep roots in North Karnataka and Andhra culinary traditions, she transforms treasured family recipes into wholesome products that nourish families far and wide.",
+    "missionTitle": "Our Mission",
+    "mission": "To preserve and share authentic, preservative-free foods made with love in home kitchens — and to scale this model across Karnataka by empowering women artisans through FPO collectives and a shared digital marketplace.",
+    "valuesTitle": "Our Values",
+    "value1Title": "Purity & Craft",
+    "value1": "Every batch is prepared with care using fresh, whole ingredients in a clean home kitchen — nothing artificial, ever.",
+    "value2Title": "Heritage",
+    "value2": "Recipes passed down through generations, roasted and ground using time-honored methods that unlock true flavor.",
+    "value3Title": "Women's Empowerment",
+    "value3": "Building a Karnataka-wide network where women home-food makers onboard through FPO structures — gaining branding, packaging support, market access, and income under their own control.",
+    "locationTitle": "Our Kitchen",
+    "location": "Darshanapur, Shahpur Taluk, Yadgir District, Karnataka — PIN 585309"
+  },
+  "products": {
+    "title": "Our Creations",
+    "subtitle": "Handcrafted goodness from our kitchen to your table",
+    "ingredients": "Key Ingredients",
+    "serving": "How to Enjoy",
+    "weight": "Pack Size",
+    "orderMessage": "Hello! I would like to order: {product}"
+  },
+  "story": {
+    "title": "Our Story",
+    "subtitle": "From grandmother's kitchen to your family's table",
+    "timeline1Year": "Family Roots",
+    "timeline1": "Recipes for chutney pudi, sathu maavu, and pickles were cherished in Janaki's family for generations — each one a living memory.",
+    "timeline2Year": "Shared with Love",
+    "timeline2": "Friends and neighbors began requesting her handcrafted powders and laddus, drawn to flavors they couldn't find anywhere else.",
+    "timeline3Year": "Sumangali Home Foods",
+    "timeline3": "Janaki launched Sumangali Home Foods so authentic food lovers everywhere could taste the heritage she grew up with.",
+    "timeline4Year": "Karnataka Marketplace Vision",
+    "timeline4": "Sumangali evolves into a platform vision — onboarding women artisans and women-led FPOs across Karnataka onto one common marketplace, leveraging collective marketing, heritage packaging, and direct customer reach.",
+    "processTitle": "The Art of Making",
+    "step1Title": "Select with Care",
+    "step1": "We handpick the finest lentils, millets, nuts, and spices — only what meets our standards for purity and aroma.",
+    "step2Title": "Slow Roast & Sun-Dry",
+    "step2": "Ingredients are sun-dried and carefully roasted in small batches, unlocking depth of flavor that fast production never can.",
+    "step3Title": "Grind Fresh & Pack",
+    "step3": "Ground fresh and packed with care — no preservatives, no shortcuts, just honest food.",
+    "galleryTitle": "From Our Kitchen"
+  },
+  "health": {
+    "title": "Why Homemade?",
+    "subtitle": "Nutrition you can trust, flavors you will never forget",
+    "chutneyTitle": "Chutney Powder Benefits",
+    "chutneyText": "Rich in plant-based protein from lentils and nuts, chutney pudi is a beloved South Indian condiment. Mix with ghee or sesame oil for idli, dosa, or rice — nourishment and nostalgia in every spoon.",
+    "sathuTitle": "Sathu Maavu & Baby Food",
+    "sathuText": "Our health mix combines sprouted grains, roasted pulses, and millets — packed with protein, iron, and fiber. Perfect as porridge for babies or as nutritious laddus for the whole family.",
+    "pickleTitle": "Heritage Pickles",
+    "pickleText": "Traditional sun-dried pickles made without chemical preservatives. Bold, layered flavors from mango, lime, and regional spices — just like grandmother made.",
+    "comparisonTitle": "Handcrafted vs Store-Bought",
+    "homemade": "Handcrafted (Sumangali)",
+    "storeBought": "Store-Bought",
+    "row1": "Preservatives",
+    "row1Home": "None",
+    "row1Store": "Often added",
+    "row2": "Ingredients",
+    "row2Home": "Whole, natural",
+    "row2Store": "May include fillers",
+    "row3": "Preparation",
+    "row3Home": "Small batch, fresh",
+    "row3Store": "Mass produced",
+    "row4": "Recipe",
+    "row4Home": "Family heritage",
+    "row4Store": "Standardized",
+    "tipsTitle": "Serving Suggestions",
+    "tip1": "Mix chutney powder with ghee or coconut oil for idli and dosa.",
+    "tip2": "Stir sathu maavu into warm milk for baby porridge.",
+    "tip3": "Enjoy pickles with hot rice and a spoon of ghee."
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We would love to hear from you. Order via WhatsApp, join as a women artisan or FPO partner, or send us a message.",
+    "whatsappTitle": "WhatsApp (Preferred)",
+    "whatsappText": "Fastest way to place orders and ask questions",
+    "phone": "Phone",
+    "email": "Email",
+    "location": "Location",
+    "formTitle": "Send an Inquiry",
+    "formSuccess": "Thank you! We will get back to you soon.",
+    "joinTitle": "Join the Karnataka Women Marketplace",
+    "joinText": "Are you a home-food maker, women-led FPO, or SHG group in Karnataka? We are building a common platform to list authentic products, share heritage branding, and reach customers together.",
+    "joinCta": "Express Interest to Onboard",
+    "socialTitle": "Follow Us"
+  },
+  "footer": {
+    "tagline": "Preserving authentic tastes — empowering Karnataka women through FPO-powered marketplace",
+    "rights": "All rights reserved."
+  },
+  "packaging": {
+    "eyebrow": "Packaging & Branding",
+    "title": "Packaged with Pride, Sealed with Heritage",
+    "subtitle": "Every Sumangali Home Foods product arrives in thoughtfully designed packaging — warm kraft tones, heritage labels, and a handcrafted feel that authentic food lovers instantly recognize and trust.",
+    "collectionAlt": "Sumangali Home Foods brand packaging collection",
+    "stamp": "Handcrafted with Love · Sealed Fresh",
+    "stampSub": "Eco-conscious materials · Gift-ready presentation · Heritage label on every pack",
+    "chutneyPack": {
+      "title": "Kraft Spice Pouch",
+      "desc": "Breathable kraft pouch with gold-embossed heritage label — keeps chutney pudi fresh and aromatic."
+    },
+    "pickleJar": {
+      "title": "Heritage Glass Jar",
+      "desc": "Classic glass jar with saffron lid and sun-dried promise — the way pickles were always meant to be stored."
+    },
+    "ladduBox": {
+      "title": "Gift Laddu Box",
+      "desc": "Ribbon-tied artisan box with window display — perfect for gifting health and tradition."
+    },
+    "proteinBag": {
+      "title": "Stand-Up Protein Bag",
+      "desc": "Resealable stand-up pouch with sprouted-grain badge — nutrition meets elegant simplicity."
+    },
+    "element1": {
+      "title": "Heritage Labels",
+      "desc": "Gold-trimmed labels with kolam motifs and the Sumangali seal of authenticity."
+    },
+    "element2": {
+      "title": "Gift-Ready Boxes",
+      "desc": "Beautiful presentation for festivals, new mothers, and food lovers who appreciate detail."
+    },
+    "element3": {
+      "title": "Eco Materials",
+      "desc": "Kraft paper, glass, and minimal plastic — packaging that respects the earth and the food."
+    },
+    "element4": {
+      "title": "Hand-Finished Touch",
+      "desc": "Each pack is checked and sealed by hand — because authentic food deserves personal care."
+    }
+  },
+  "vision": {
+    "eyebrow": "Women Empowerment · FPO Model",
+    "title": "A Common Marketplace for Karnataka Women",
+    "subtitle": "Scaling Sumangali Home Foods into a platform where every woman artisan and women-led FPO can onboard, sell authentic homemade foods, and build livelihoods together.",
+    "intro": "Across Karnataka, thousands of women prepare chutney powders, health mixes, pickles, and millet foods in home kitchens — carrying recipes their mothers and grandmothers passed down. Yet many lack direct market access, branding support, and fair prices. Farmer Producer Organisations (FPOs) have proven that when women farmers and food makers unite, they gain bargaining power, eliminate middlemen, and reach customers nationwide. Sumangali Home Foods, founded by Janaki Sudath Darshanapur, is the pilot — and the blueprint — for a Karnataka-wide women food marketplace.",
+    "modelTitle": "Why the FPO Model?",
+    "modelText": "Under India's FPO movement, over 800 women-only producer companies now operate across the country, with lakhs of women farmers registered as members. Successful women-led FPOs in Karnataka — from millet networks spanning dozens of villages to home-food collectives — have shown that collective action unlocks storage, grading, packaging, and marketing at scale. Government initiatives also link FPOs to digital platforms like e-NAM and ONDC. Sumangali leverages this proven model for authentic home foods: women join or form FPOs, meet shared quality standards, use heritage branding and packaging, and list products on one common marketplace.",
+    "stat1Value": "800+",
+    "stat1Label": "Women-only FPOs across India — a proven collective model for rural prosperity",
+    "stat2Value": "40%",
+    "stat2Label": "Of FPO-linked farmers are women — growing role in decision-making and agribusiness",
+    "stat3Value": "1 Platform",
+    "stat3Label": "One Karnataka marketplace — many women artisans, one trusted brand family",
+    "pillarsTitle": "Four Pillars of the Sumangali Marketplace",
+    "pillar1Title": "Women Collectives",
+    "pillar1Text": "Onboard through women-led FPOs and SHGs for shared strength.",
+    "pillar1Detail": "Individual home kitchens join village-level groups and FPO structures — gaining legal entity status, shared godowns, and collective negotiation power that no single artisan could achieve alone.",
+    "pillar2Title": "Common Marketplace",
+    "pillar2Text": "One digital storefront connecting artisans to authentic food lovers.",
+    "pillar2Detail": "Products from across Karnataka — Yadgir, Hubballi, Bengaluru Rural, and beyond — reach customers through WhatsApp ordering, exhibitions, and future integration with national digital commerce networks.",
+    "pillar3Title": "Heritage Branding",
+    "pillar3Text": "Shared packaging, labels, and quality standards every member can trust.",
+    "pillar3Detail": "Training in grading, packaging, processing, and branding — the top needs identified by women FPO members in Karnataka research — delivered through the Sumangali heritage label system.",
+    "pillar4Title": "Fair Livelihoods",
+    "pillar4Text": "Direct sales, transparent pricing, income under women's control.",
+    "pillar4Detail": "Inspired by women-led FPO success stories — from millet networks earning lakhs in turnover to mango collectives reaching urban buyers directly — every member keeps more of what she earns.",
+    "pathTitle": "How Women Onboard",
+    "pathSubtitle": "From home kitchen to Karnataka marketplace — a clear path for every artisan.",
+    "step1Title": "Craft in Your Kitchen",
+    "step1Text": "Prepare authentic, preservative-free foods using family recipes — chutney powders, laddus, pickles, millet mixes, and more.",
+    "step2Title": "Join a Women FPO or SHG",
+    "step2Text": "Connect with an existing women-led Farmer Producer Organisation in your district, or form a new collective with neighboring artisans.",
+    "step3Title": "Meet Sumangali Standards",
+    "step3Text": "Receive guidance on hygiene, small-batch quality, heritage packaging, and labeling — so every product earns customer trust.",
+    "step4Title": "List on the Marketplace",
+    "step4Text": "Your products appear alongside Sumangali Home Foods on the common platform — reaching authentic food lovers across Karnataka and beyond.",
+    "audiencesTitle": "Who Can Join?",
+    "audience1Title": "Women Home-Food Makers",
+    "audience1Text": "Individual artisans crafting chutney, health mixes, pickles, or baby foods in home kitchens across Karnataka.",
+    "audience2Title": "Women-Led FPOs",
+    "audience2Text": "Existing Farmer Producer Companies seeking a branded marketplace, packaging support, and direct customer channels.",
+    "audience3Title": "Supporters & Partners",
+    "audience3Text": "NGOs, government schemes, and mentors who want to strengthen women's livelihoods through the FPO food marketplace model.",
+    "ctaQuote": "Every woman who preserves authentic taste deserves a marketplace that preserves her dignity and income.",
+    "ctaButton": "Join the Movement"
+  }
+}
